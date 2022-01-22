@@ -1,0 +1,71 @@
+body{
+  background: rgb(2,0,36);
+  background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(9,121,91,1) 33%, rgba(6,148,139,1) 66%, rgba(23,221,55,1) 100%);
+
+}
+
+.info-container{
+  background-color: white;
+  border-radius: 20px;
+  margin: 75px 50px 75px 50px;
+
+}
+
+h2{
+  padding-top: 25px;
+  font-family: 'Outfit', sans-serif;
+}
+
+.intro{
+  width:75%;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+.education{
+  width:75%;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+.skills{
+  width:75%;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+.contact-me{
+  width:75%;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+table{
+
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+form{
+  width:75%;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+ul{
+  display:inline-block;
+  text-align: center;
+}
+
+p{
+  display: inline;
+}
+
+.name-email{
+  float: left;
+}
+
+img{
+  border-color: #020024;
+  border-style: solid;
+  border-radius: 100%;
+
+}
